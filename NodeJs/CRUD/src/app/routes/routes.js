@@ -20,7 +20,7 @@ module.exports = (app)=>{
     
     app.get('/book', function(req, resp){
         const bookDao = new BookDao(db);
-        bookDao.list()
+        bookDao.read()
                .then(result =>resp.marko(
                     require('../views/books/show/list.marko'),
                     {
@@ -37,7 +37,7 @@ module.exports = (app)=>{
     app.post('/book', function(req, res){
         console.log(req.body)
         const bookDao = new BookDao(db);
-        bookDao.add(req.body)
+        bookDao.create(req.body)
                .then(res.redirect('/book'))
                .catch(err => console.log(err));
     });
