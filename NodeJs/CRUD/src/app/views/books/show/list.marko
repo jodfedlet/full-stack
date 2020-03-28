@@ -1,0 +1,18 @@
+<html>
+    <head>
+    <title>Page Title</title>
+    </head>
+    <body>
+        <h1>Books list</h1>
+        <table>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+            </tr>
+            <tr for(book in data.books)>
+                <td>${book.id}</td>
+                <td>${book.titulo}</td>
+            </tr>
+        </table>
+    </body>
+</html>
