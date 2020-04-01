@@ -29,7 +29,7 @@ function render(input, out, __component, component, state) {
   marko_forEach(data.books, function(book) {
     var keyscope__13 = "[" + ((for__12++) + "]");
 
-    out.w("<tr id=\"livro_" +
+    out.w("<tr id=\"book_" +
       marko_escapeXmlAttr(book.id) +
       "\"> <td>" +
       marko_escapeXml(book.id) +
@@ -39,10 +39,10 @@ function render(input, out, __component, component, state) {
       marko_escapeXml(book.preco) +
       "</td><td><a href=\"#\">Editar</a></td> <td><a href=\"#\" data-ref=\"" +
       marko_escapeXmlAttr(book.id) +
-      "\" data-type=\"remocao\">Remover</a></td> </tr>");
+      "\" data-type=\"remove\">Remover</a></td> </tr>");
   });
 
-  out.w("</table> <script src=\"./remove-livro.js\">\n        </script> ");
+  out.w("</table> <script src=\"/static/js/remove-book.js\">\n        </script> ");
 
   init_components_tag({}, out);
 

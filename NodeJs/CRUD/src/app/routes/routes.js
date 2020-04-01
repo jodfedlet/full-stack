@@ -18,7 +18,7 @@ module.exports = (app)=>{
         );
     });
     
-    app.get('/book', function(req, resp){
+    app.get('/books', function(req, resp){
         const bookDao = new BookDao(db);
         bookDao.read()
                .then(result =>resp.marko(
@@ -38,7 +38,16 @@ module.exports = (app)=>{
         console.log(req.body)
         const bookDao = new BookDao(db);
         bookDao.create(req.body)
-               .then(res.redirect('/book'))
+               .then(res.redirect('/books'))
                .catch(err => console.log(err));
+    });
+
+    app.delete('/books/:id', function(req, res){
+        const id = req.params.id;
+        const bookDao = new BookDao(db);
+        
+        bookDao.delete(id)
+                .then(()=>res.status(200).end())
+                .catch(err => console.log(err))
     });
 }

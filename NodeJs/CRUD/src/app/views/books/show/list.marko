@@ -13,15 +13,19 @@
                 <td>Editar</td>
                 <td>Remover</td>
             </tr>
-            <tr id="livro_${book.id}" for (book in data.books)> 
+            <tr id="book_${book.id}" for (book in data.books)> 
                 <td>${book.id}</td>
                 <td>${book.titulo}</td>
                 <td>${book.preco}</td>
-                <td><a href="#">Editar</a></td> 
-                <td><a href="#" data-ref="${book.id}" data-type="remocao">Remover</a></td> 
+                <td>
+                    <a href="#">Editar</a>
+                </td> 
+                <td>
+                    <a href="#" data-ref="${book.id}" data-type="remove">Remover</a>
+                </td> 
             </tr>
         </table> 
-        <script src="./remove-livro.js">
+        <script src="/static/js/remove-book.js">
         </script> 
     </body> 
 </html>
