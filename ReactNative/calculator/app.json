@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Be the Hero",
-    "slug": "bethehero",
+    "name": "calculator",
+    "slug": "calculator",
     "platforms": [
       "ios",
       "android",
@@ -13,7 +13,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#E02041"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
