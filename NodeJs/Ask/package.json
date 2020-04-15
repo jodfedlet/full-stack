@@ -1,0 +1,19 @@
+{
+  "name": "ask",
+  "version": "1.0.0",
+  "description": "Web platform to ask and answer any question",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jod F. Pierre",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.3",
+    "sequelize": "^5.21.6"
+  }
+}
