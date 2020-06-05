@@ -6,7 +6,7 @@ import axios from 'axios';
 import { LeafletMouseEvent } from 'leaflet';
 
 import { FiArrowLeft } from 'react-icons/fi';
-import { Link } from 'react-router-dom';
+import { Link, useHistory } from 'react-router-dom';
 import logo from '../../assets/logo.svg';
 
 interface Item {
@@ -40,6 +40,7 @@ const CreatePoint = () => {
     const [selectedPosition, setSelectedPosition] = useState<[number, number]>([0, 0]);
     const [selectedItems, setSelectedItem] = useState<number[]>([]);
 
+    const history = useHistory();
 
     useEffect(()=> {
         api.get('items').then(response =>{
@@ -86,13 +87,12 @@ const CreatePoint = () => {
             event.latlng.lng
         ])
     }
-    function handleInputChange(event: ChangeEvent<HTMLSelectElement>) {
+    function handleInputChange(event: ChangeEvent<HTMLInputElement>) {
         const { name, value} = event.target;
         setFormData({...formData, [name]:value})
     }
-
     function handleSelectedItem(id:number) {
-       const alreadySelected = selectedItems.findIndex(item => item == id);
+       const alreadySelected = selectedItems.findIndex(item => item === id);
        if(alreadySelected >= 0){
             const filteredItems = selectedItems.filter((item => item !== id ));
             setSelectedItem(filteredItems);
@@ -100,10 +100,30 @@ const CreatePoint = () => {
            setSelectedItem([ ...selectedItems, id]);
        }
     }
-
-    function handleSubmit(event: FormEvent){
+    async function handleSubmit(event: FormEvent){
         event.preventDefault();
+
+        const { name, email, whatsapp} = formData;
+        const uf = selectedUf;
+        const city = selectedCity;
+        const [latitude, longitude] = selectedPosition;
+        const items = selectedItems;
+
+        const data = {
+            name,
+            email,
+            whatsapp,
+            uf,
+            city,
+            latitude,
+            longitude,
+            items
+        };
+       await api.post('points', data);
+       alert('Ponto de coleto criado');
+       history.push('/');
     }
+
     return(
         <div id="page-create-point">
             <header>
