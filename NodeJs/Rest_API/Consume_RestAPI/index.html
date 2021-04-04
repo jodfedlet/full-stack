@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Consume the rest API using Axios</title>
+    <hr />
+    <h4>List games</h4>
+    <ul id="games"></ul>
+    <hr />
+    <h4>New game</h4>
+    <input type="text" id="title" name="title" placeholder="Enter the title" />
+    <input type="number" id="year" name="year" placeholder="Enter the year" />
+    <input
+      type="number"
+      id="price"
+      name="price"
+      placeholder="Enter the price"
+    />
+    <button onclick="return saveGame();">Save</button>
+  </head>
+  <body></body>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script>
+    axios
+      .get("http://localhost:3030/games")
+      .then((response) => {
+        let games = response.data;
+        let list = document.getElementById("games");
+
+        games.forEach((game) => {
+          let item = document.createElement("li");
+          item.innerHTML = game.id + " - " + game.title + " - $" + game.price;
+          list.appendChild(item);
+        });
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+
+    function saveGame() {
+      let titleInput = document.getElementById("title");
+      let yearInput = document.getElementById("year");
+      let priceInput = document.getElementById("price");
+
+      let game = {
+        title: titleInput.value,
+        year: yearInput.value,
+        price: priceInput.value,
+      };
+
+      axios
+        .post("http://localhost:3030/game", game)
+        .then((response) => {
+          alert("Game save successfuly!");
+        })
+        .catch((error) => {
+          console.log(error);
+        });
+    }
+  </script>
+</html>
