@@ -1,0 +1,684 @@
+2022-05-31T21:18:51.885Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:20:22.636Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:20:34.323Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:24:49.302Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:25:27.472Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:25:29.980Z [pet-shop] info: [OwnerController] - getAll - Request => {}
+2022-05-31T21:25:29.980Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:25:29.981Z [pet-shop] error: [OwnerController] - getAll - Error => ReferenceError: owner is not defined
+2022-05-31T21:26:34.101Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:26:43.400Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:26:47.656Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-05-31T21:26:47.656Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:26:47.657Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-05-31T21:26:47.657Z [pet-shop] error: [OwnerRepository] - getAll - Error => TypeError: Owner.getAll is not a function
+2022-05-31T21:26:47.658Z [pet-shop] error: [OwnerController] - getAll - Error => TypeError: Owner.getAll is not a function
+2022-05-31T21:27:26.354Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:27:30.804Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-05-31T21:27:30.805Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:27:30.806Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-05-31T21:27:33.419Z [pet-shop] error: [OwnerRepository] - getAll - Error => SequelizeDatabaseError: relation "Owners" does not exist
+2022-05-31T21:27:33.420Z [pet-shop] error: [OwnerController] - getAll - Error => SequelizeDatabaseError: relation "Owners" does not exist
+2022-05-31T21:28:43.173Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:28:46.422Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-05-31T21:28:46.422Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:28:46.423Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-05-31T21:28:48.898Z [pet-shop] error: [OwnerRepository] - getAll - Error => SequelizeDatabaseError: relation "Proprietatios" does not exist
+2022-05-31T21:28:48.899Z [pet-shop] error: [OwnerController] - getAll - Error => SequelizeDatabaseError: relation "Proprietatios" does not exist
+2022-05-31T21:28:59.074Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:29:01.467Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-05-31T21:29:01.467Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:29:01.468Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-05-31T21:29:03.665Z [pet-shop] error: [OwnerRepository] - getAll - Error => SequelizeDatabaseError: relation "Proprietarios" does not exist
+2022-05-31T21:29:03.666Z [pet-shop] error: [OwnerController] - getAll - Error => SequelizeDatabaseError: relation "Proprietarios" does not exist
+2022-05-31T21:29:21.690Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:29:26.274Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-05-31T21:29:26.276Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:29:26.276Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-05-31T21:30:55.586Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:31:01.531Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-05-31T21:31:01.531Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:31:01.532Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-05-31T21:31:58.710Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:32:00.895Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-05-31T21:32:00.896Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:32:00.896Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-05-31T21:35:01.294Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:35:04.176Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-05-31T21:35:04.177Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:35:04.177Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-05-31T21:35:06.543Z [pet-shop] error: [OwnerController] - getAll - Error => ReferenceError: res is not defined
+2022-05-31T21:35:22.755Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:35:24.651Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-05-31T21:35:24.652Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-05-31T21:35:24.652Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-05-31T21:40:27.274Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:41:11.377Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:41:16.979Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:41:31.635Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:45:10.466Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:45:34.717Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:46:14.839Z [pet-shop] info: [OwnerController] - find - Params => "3"
+2022-05-31T21:46:14.840Z [pet-shop] info: [OwnerService] - find - Params => "3"
+2022-05-31T21:46:14.841Z [pet-shop] error: [OwnerController] - find - Error => ReferenceError: owner is not defined
+2022-05-31T21:46:40.892Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:46:42.519Z [pet-shop] info: [OwnerController] - find - Params => "3"
+2022-05-31T21:46:42.520Z [pet-shop] info: [OwnerService] - find - Params => "3"
+2022-05-31T21:46:42.520Z [pet-shop] info: [OwnerRepository] - find - Params => 3
+2022-05-31T21:46:44.458Z [pet-shop] error: [OwnerRepository] - getAll - Error => SequelizeDatabaseError: column proprietarios.propritario_id does not exist
+2022-05-31T21:46:44.459Z [pet-shop] error: [OwnerController] - find - Error => SequelizeDatabaseError: column proprietarios.propritario_id does not exist
+2022-05-31T21:47:00.918Z [pet-shop] info: The petshop API is running on port 3000
+2022-05-31T21:47:02.180Z [pet-shop] info: [OwnerController] - find - Params => "3"
+2022-05-31T21:47:02.181Z [pet-shop] info: [OwnerService] - find - Params => "3"
+2022-05-31T21:47:02.181Z [pet-shop] info: [OwnerRepository] - find - Params => 3
+2022-05-31T21:48:21.980Z [pet-shop] info: [OwnerController] - find - Params => "4"
+2022-05-31T21:48:21.980Z [pet-shop] info: [OwnerService] - find - Params => "4"
+2022-05-31T21:48:21.981Z [pet-shop] info: [OwnerRepository] - find - Params => 4
+2022-05-31T21:48:55.140Z [pet-shop] info: [OwnerController] - find - Params => "6"
+2022-05-31T21:48:55.143Z [pet-shop] info: [OwnerService] - find - Params => "6"
+2022-05-31T21:48:55.143Z [pet-shop] info: [OwnerRepository] - find - Params => 6
+2022-05-31T22:02:11.161Z [pet-shop] info: [OwnerController] - find - Params => "5"
+2022-05-31T22:02:11.161Z [pet-shop] info: [OwnerService] - find - Params => "5"
+2022-05-31T22:02:11.162Z [pet-shop] info: [OwnerRepository] - find - Params => 5
+2022-06-06T18:05:53.407Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:06:11.500Z [pet-shop] info: [OwnerController] - find - Params => "5"
+2022-06-06T18:06:11.500Z [pet-shop] info: [OwnerService] - find - Params => "5"
+2022-06-06T18:06:11.501Z [pet-shop] info: [OwnerRepository] - find - Params => 5
+2022-06-06T18:10:10.587Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:12:31.519Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:18:13.702Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T18:18:13.702Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T18:18:13.703Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T18:22:35.947Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:22:37.033Z [pet-shop] info: [OwnerController] - find - delete => "5"
+2022-06-06T18:22:54.693Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:23:14.603Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:23:16.410Z [pet-shop] info: [OwnerController] - find - delete => "5"
+2022-06-06T18:23:16.411Z [pet-shop] info: [OwnerService] - delete - Params => "5"
+2022-06-06T18:23:16.412Z [pet-shop] error: [OwnerController] - delete - Error => TypeError: OwnerRepository.delete is not a function
+2022-06-06T18:23:56.810Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:23:59.027Z [pet-shop] info: [OwnerController] - find - delete => "5"
+2022-06-06T18:23:59.028Z [pet-shop] info: [OwnerService] - delete - Params => "5"
+2022-06-06T18:23:59.029Z [pet-shop] info: [OwnerRepository] - delete - Params => 5
+2022-06-06T18:24:01.820Z [pet-shop] error: [OwnerRepository] - delete - Error => SequelizeForeignKeyConstraintError: update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-06T18:24:01.821Z [pet-shop] error: [OwnerController] - delete - Error => SequelizeForeignKeyConstraintError: update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-06T18:32:24.057Z [pet-shop] info: [OwnerController] - createOwner - Request => {"nome":"Jod F Pierre","telefone":"(31) 99545-2457"}
+2022-06-06T18:32:24.058Z [pet-shop] info: [OwnerService] - createOwner - Request => {"nome":"Jod F Pierre","telefone":"(31) 99545-2457"}
+2022-06-06T18:32:24.059Z [pet-shop] info: [OwnerRepository] - createOwner - Request => {"nome":"Jod F Pierre","telefone":"(31) 99545-2457"}
+2022-06-06T18:32:34.672Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T18:32:34.672Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T18:32:34.673Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T18:38:49.461Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:41:03.098Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:41:30.519Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:41:44.232Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:46:06.445Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:46:13.432Z [pet-shop] info: [OwnerController] - update - Request => {"nome":"Jod F Pierre","telefone":"(49) 999669170"}
+2022-06-06T18:46:13.432Z [pet-shop] info: [OwnerController] - update - Params => "5"
+2022-06-06T18:46:13.433Z [pet-shop] info: [OwnerService] - update - Request => {"nome":"Jod F Pierre","telefone":"(49) 999669170"}
+2022-06-06T18:46:13.433Z [pet-shop] info: [OwnerService] - update - Params => "5"
+2022-06-06T18:46:13.433Z [pet-shop] info: [OwnerRepository] - update - Params => 5
+2022-06-06T18:46:13.433Z [pet-shop] info: [OwnerRepository] - update - Request => {"nome":"Jod F Pierre","telefone":"(49) 999669170"}
+2022-06-06T18:46:27.305Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T18:46:27.309Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T18:46:27.309Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T18:47:33.999Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T18:47:34.000Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T18:47:34.000Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T18:47:43.221Z [pet-shop] info: [OwnerController] - update - Request => {"telefone":"(49) 999669170"}
+2022-06-06T18:47:43.222Z [pet-shop] info: [OwnerController] - update - Params => "7"
+2022-06-06T18:47:43.222Z [pet-shop] info: [OwnerService] - update - Request => {"telefone":"(49) 999669170"}
+2022-06-06T18:47:43.222Z [pet-shop] info: [OwnerService] - update - Params => "7"
+2022-06-06T18:47:43.223Z [pet-shop] info: [OwnerRepository] - update - Params => 7
+2022-06-06T18:47:43.223Z [pet-shop] info: [OwnerRepository] - update - Request => {"telefone":"(49) 999669170"}
+2022-06-06T18:47:47.477Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T18:47:47.478Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T18:47:47.478Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T18:48:21.811Z [pet-shop] info: [OwnerController] - update - Request => {"nome":"Jod F"}
+2022-06-06T18:48:21.811Z [pet-shop] info: [OwnerController] - update - Params => "7"
+2022-06-06T18:48:21.811Z [pet-shop] info: [OwnerService] - update - Request => {"nome":"Jod F"}
+2022-06-06T18:48:21.812Z [pet-shop] info: [OwnerService] - update - Params => "7"
+2022-06-06T18:48:21.812Z [pet-shop] info: [OwnerRepository] - update - Params => 7
+2022-06-06T18:48:21.812Z [pet-shop] info: [OwnerRepository] - update - Request => {"nome":"Jod F"}
+2022-06-06T18:48:25.487Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T18:48:25.488Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T18:48:25.488Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T18:50:19.917Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:50:34.138Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T18:50:34.139Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T18:50:34.139Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T18:50:58.249Z [pet-shop] info: [OwnerController] - update - Request => {"nome":"Beatriz B"}
+2022-06-06T18:50:58.250Z [pet-shop] info: [OwnerController] - update - Params => "4"
+2022-06-06T18:50:58.250Z [pet-shop] info: [OwnerService] - update - Request => {"nome":"Beatriz B"}
+2022-06-06T18:50:58.250Z [pet-shop] info: [OwnerService] - update - Params => "4"
+2022-06-06T18:50:58.251Z [pet-shop] info: [OwnerRepository] - update - Params => 4
+2022-06-06T18:50:58.251Z [pet-shop] info: [OwnerRepository] - update - Request => {"nome":"Beatriz B"}
+2022-06-06T18:51:03.324Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T18:51:03.324Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T18:51:03.324Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T18:54:48.633Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:55:00.967Z [pet-shop] info: [OwnerController] - update - Request => {"nome":"Beatriz B"}
+2022-06-06T18:55:00.968Z [pet-shop] info: [OwnerController] - update - Params => "4"
+2022-06-06T18:55:00.968Z [pet-shop] info: [OwnerService] - update - Request => {"nome":"Beatriz B"}
+2022-06-06T18:55:00.968Z [pet-shop] info: [OwnerService] - update - Params => "4"
+2022-06-06T18:55:00.969Z [pet-shop] info: [OwnerRepository] - update - Params => 4
+2022-06-06T18:55:00.969Z [pet-shop] info: [OwnerRepository] - update - Request => {"nome":"Beatriz B"}
+2022-06-06T18:55:19.068Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:55:20.802Z [pet-shop] info: [OwnerController] - update - Request => {"nome":"Beatriz B"}
+2022-06-06T18:55:20.802Z [pet-shop] info: [OwnerController] - update - Params => "4"
+2022-06-06T18:55:20.803Z [pet-shop] info: [OwnerService] - update - Request => {"nome":"Beatriz B"}
+2022-06-06T18:55:20.803Z [pet-shop] info: [OwnerService] - update - Params => "4"
+2022-06-06T18:55:20.803Z [pet-shop] info: [OwnerRepository] - update - Params => 4
+2022-06-06T18:55:20.804Z [pet-shop] info: [OwnerRepository] - update - Request => {"nome":"Beatriz B"}
+2022-06-06T18:55:59.719Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:56:20.443Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T18:56:25.320Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T18:56:25.321Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T18:56:25.321Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T18:56:35.414Z [pet-shop] info: [OwnerController] - find - Params => "5"
+2022-06-06T18:56:35.416Z [pet-shop] info: [OwnerService] - find - Params => "5"
+2022-06-06T18:56:35.416Z [pet-shop] info: [OwnerRepository] - find - Params => 5
+2022-06-06T18:56:39.258Z [pet-shop] info: [OwnerController] - delete => "5"
+2022-06-06T18:56:39.259Z [pet-shop] info: [OwnerService] - delete - Params => "5"
+2022-06-06T18:56:39.259Z [pet-shop] info: [OwnerRepository] - delete - Params => 5
+2022-06-06T18:56:39.441Z [pet-shop] error: [OwnerRepository] - delete - Error => SequelizeForeignKeyConstraintError: update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-06T18:56:39.442Z [pet-shop] error: [OwnerController] - delete - Error => SequelizeForeignKeyConstraintError: update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-06T19:30:51.508Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:31:22.504Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:31:47.413Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:38:38.941Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T19:38:38.942Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T19:38:38.942Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T19:39:27.553Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:39:31.453Z [pet-shop] info: [AnimalController] - getAll - Request 
+2022-06-06T19:39:31.454Z [pet-shop] info: [AnimalService] - getAll - Request
+2022-06-06T19:39:31.454Z [pet-shop] info: [AnimalRepository] - getAll - Request
+2022-06-06T19:41:08.092Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:41:08.093Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:41:08.094Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:41:09.017Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:41:09.018Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:42:18.979Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:42:20.509Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:42:20.510Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:42:20.511Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:42:22.404Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:42:22.406Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:48:25.039Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:48:31.872Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:48:31.873Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:48:31.873Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:48:34.129Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:48:34.130Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:57:22.558Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:57:43.872Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:57:43.872Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:57:43.873Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:57:45.782Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:57:45.783Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:57:59.134Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:57:59.880Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:57:59.881Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:57:59.881Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:58:02.026Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:58:02.027Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:58:35.494Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:58:36.234Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:58:36.234Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:58:36.235Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:58:38.161Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:58:38.162Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:59:00.474Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T19:59:02.424Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:59:02.425Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:59:02.425Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T19:59:04.300Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T19:59:04.300Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:02:48.239Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:02:51.064Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:02:56.556Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:02:56.556Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:02:56.557Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:02:59.165Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:02:59.166Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:13:27.794Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:13:50.945Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:13:50.946Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:13:50.947Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:13:54.192Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:13:54.192Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:18:38.372Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:18:41.425Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:18:41.426Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:18:41.427Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:18:43.345Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:18:43.346Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:21:00.093Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:21:26.974Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:21:59.316Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:24:03.946Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:24:13.265Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:24:16.528Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:24:18.596Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:24:21.472Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:28:19.817Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:28:21.869Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:28:27.277Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:28:27.277Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:28:27.278Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:28:29.622Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:28:29.623Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:28:41.323Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:28:42.955Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:28:42.956Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:28:42.956Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:28:44.900Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:28:44.901Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:30:00.033Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:30:21.025Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:30:21.026Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:30:21.026Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:30:23.140Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:30:23.141Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:33:06.152Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:33:12.831Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:33:12.832Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:33:12.832Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:33:14.695Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:33:14.696Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:52:51.981Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:55:07.316Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:55:11.181Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:55:11.184Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:55:11.185Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:55:13.771Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:55:32.568Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:55:49.790Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:55:49.792Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:55:49.793Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:55:51.866Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:55:51.867Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:56:45.171Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:56:47.574Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:56:47.575Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:56:47.575Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:56:50.637Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:57:08.914Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T20:57:15.863Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:57:15.863Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:57:15.864Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"animal x","tipo":"gatinho"}
+2022-06-06T20:57:17.813Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:57:17.815Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T20:57:49.612Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T21:57:55.040Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T21:58:33.359Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:08:12.495Z [pet-shop] info: [AnimalController] - getAll - Request 
+2022-06-06T22:08:12.496Z [pet-shop] info: [AnimalService] - getAll - Request
+2022-06-06T22:08:12.496Z [pet-shop] info: [AnimalRepository] - getAll - Request
+2022-06-06T22:10:03.562Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:10:03.562Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:10:03.562Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:10:04.724Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:10:04.725Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:12:34.981Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:12:35.348Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:12:39.285Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:12:39.286Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:12:39.286Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:12:41.502Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:12:41.503Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:13:02.484Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:13:14.693Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:13:16.951Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:13:16.951Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:13:16.951Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:13:19.488Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:13:19.489Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:13:32.729Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:13:35.474Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:13:35.474Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:13:35.475Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:13:37.716Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:13:37.717Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:14:00.715Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:14:05.092Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:14:05.093Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:14:05.093Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:14:07.515Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:14:07.516Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:14:46.473Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:14:48.618Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:14:48.619Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:14:48.619Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:14:50.932Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:14:50.934Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:15:29.987Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:15:47.037Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:15:49.349Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:15:49.350Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:15:49.350Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:15:52.166Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:15:52.166Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:16:54.567Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:17:06.439Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:17:14.354Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:17:14.355Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:17:14.355Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:17:16.812Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:17:16.813Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:17:46.025Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:17:53.998Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:28:16.712Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:29:28.009Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:29:41.297Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:29:45.176Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:29:45.176Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:29:47.477Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:32:58.122Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:33:06.014Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:33:06.015Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:33:06.015Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:33:08.376Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:33:08.377Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:33:42.842Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:33:45.802Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:33:45.802Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:33:45.802Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:33:48.104Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:33:48.105Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:35:04.555Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:35:35.902Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:35:39.010Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:35:39.010Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:35:39.011Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:35:41.306Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:35:41.308Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:36:41.131Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:36:47.293Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:36:47.294Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:36:47.294Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:36:49.583Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:36:49.583Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:36:57.409Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:37:07.908Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:37:12.493Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:37:16.425Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:37:23.553Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:37:23.979Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:37:28.458Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:37:28.458Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:37:28.458Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:37:30.847Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:37:30.848Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:38:34.388Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:38:36.826Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:38:36.826Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:38:36.827Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:38:39.254Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:38:39.255Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:39:07.417Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:39:11.112Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:39:11.112Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:39:11.112Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:39:13.742Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:39:13.743Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:39:24.159Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:39:27.264Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:39:29.955Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:39:29.955Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:39:29.955Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:39:32.272Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:39:32.273Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:42:31.145Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:42:41.651Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:42:41.652Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:42:41.652Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:42:44.453Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:42:44.454Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:43:15.487Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:43:18.218Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:43:18.218Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:43:18.218Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:43:20.597Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:43:20.599Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:44:28.604Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:44:44.723Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:44:54.155Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:44:58.024Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:44:58.024Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:44:58.024Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:45:00.321Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:45:00.321Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:45:00.322Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:46:12.757Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:48:00.648Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:48:21.314Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:48:31.495Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:48:31.495Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:48:31.495Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:48:33.838Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:48:33.839Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:48:33.840Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:48:47.954Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:48:49.841Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:48:49.842Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:48:49.842Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:48:52.154Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:48:52.155Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:48:52.156Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:49:11.737Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:53:09.681Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:53:22.488Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:53:24.717Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:53:24.718Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:53:24.718Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:53:27.097Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:53:27.098Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:53:27.119Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:54:07.251Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:54:13.484Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:54:17.577Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:54:17.578Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:54:17.578Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:54:19.970Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:54:19.971Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:54:19.972Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:54:41.912Z [pet-shop] info: The petshop API is running on port 3000
+2022-06-06T22:54:46.323Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:54:46.323Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:54:46.323Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:54:48.647Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:54:48.648Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:54:48.649Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:56:33.020Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T22:56:42.795Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:56:42.796Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:56:42.796Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:56:45.312Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:56:45.313Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:56:45.337Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:58:40.329Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T22:59:02.350Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T22:59:07.033Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:59:07.033Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:59:07.034Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:59:09.373Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:59:09.374Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:59:09.376Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:59:32.983Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T22:59:36.364Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:59:36.364Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:59:36.364Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T22:59:38.662Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:59:38.663Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T22:59:38.665Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:00:06.036Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:00:07.960Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:00:07.961Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:00:07.961Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:00:10.311Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:00:10.312Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:00:10.314Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:00:35.633Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:00:39.874Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:00:39.874Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:00:39.875Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:00:42.165Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:00:42.165Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:00:42.170Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:02:22.727Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:02:31.157Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:02:31.157Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:02:31.158Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:02:33.587Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:02:33.588Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:02:33.590Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:02:52.097Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:02:55.246Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:02:55.247Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:02:55.247Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:02:57.553Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:02:57.554Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:02:57.557Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:03:20.834Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:03:24.662Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:03:24.663Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:03:24.663Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:03:27.051Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:03:27.052Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:03:27.056Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:04:29.874Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:04:33.662Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:04:33.663Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:04:33.663Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:04:35.968Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:04:35.970Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:04:35.972Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:06:05.801Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:06:09.813Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:06:09.813Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:06:09.813Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:06:12.128Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:06:12.129Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:06:12.130Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:06:36.474Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:06:42.839Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:06:42.840Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:06:42.840Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:06:45.207Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:06:45.208Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:06:45.210Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:07:21.659Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:11:09.483Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:11:45.797Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:12:06.791Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:12:56.136Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:15:40.796Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:15:41.712Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:19:04.074Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:19:12.254Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:19:21.550Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:20:38.853Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:20:38.853Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:20:38.853Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:20:41.213Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:20:41.215Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:20:41.217Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:23:13.611Z [pet-shop] info: [AnimalController] - getAll - Params => {}
+2022-06-06T23:23:13.611Z [pet-shop] info: [AnimalService] - getAll - Request
+2022-06-06T23:23:13.612Z [pet-shop] info: [AnimalRepository] - getAll - Request
+2022-06-06T23:26:27.266Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:26:32.708Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:26:32.709Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:26:32.709Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:26:35.090Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:26:35.091Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:26:35.109Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:26:51.709Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:26:55.479Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:26:55.479Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:26:55.480Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:26:57.819Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:26:57.820Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:26:57.835Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:27:46.220Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:27:49.580Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:27:49.580Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:27:49.581Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:27:51.876Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:27:51.877Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:27:51.897Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:28:53.596Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:28:56.520Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:28:56.521Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:28:56.521Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:28:58.829Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:28:58.829Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:28:58.839Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:34:11.508Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:34:18.656Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:34:18.656Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:34:18.657Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:34:20.756Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:34:20.757Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:34:20.767Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:35:35.342Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:35:35.691Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:35:38.021Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:35:38.021Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:35:38.022Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:35:40.853Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:35:40.854Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:35:40.856Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:37:07.086Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:37:07.537Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:37:11.317Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:37:11.318Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:37:11.318Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:37:13.704Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:37:13.705Z [pet-shop] error: [AnimalController] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:38:50.843Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:39:00.567Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:39:11.869Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:39:16.472Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:39:21.379Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:39:21.380Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:39:21.380Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:39:23.745Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:39:23.746Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:39:43.879Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"proprietario_id":"Pet 1","nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:39:43.879Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"proprietario_id":"Pet 1","nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:39:43.879Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"proprietario_id":"Pet 1","nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:39:45.352Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:39:45.353Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:40:00.838Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"proprietario_id":5,"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:40:00.838Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"proprietario_id":5,"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:40:00.838Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"proprietario_id":5,"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:40:01.940Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:40:01.941Z [pet-shop] error: POST /animal - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-06T23:40:23.930Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:40:46.154Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:40:51.778Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"proprietario_id":5,"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:40:51.778Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"proprietario_id":5,"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:40:51.779Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"proprietario_id":5,"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:40:54.168Z [pet-shop] error: [AnimalRepository] - createAnimal - Error => SequelizeDatabaseError: column "proprieatrio_id" does not exist
+2022-06-06T23:40:54.170Z [pet-shop] error: POST /animal - column "proprieatrio_id" does not exist
+2022-06-06T23:41:07.924Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:41:11.622Z [pet-shop] info: [AnimalController] - createAnimal - Request => {"proprietario_id":5,"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:41:11.622Z [pet-shop] info: [AnimalService] - createAnimal - Request => {"proprietario_id":5,"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:41:11.622Z [pet-shop] info: [AnimalRepository] - createAnimal - Request => {"proprietario_id":5,"nome":"Pet 1","tipo":"Gatinho"}
+2022-06-06T23:41:23.901Z [pet-shop] info: [AnimalController] - getAll - Params => {}
+2022-06-06T23:41:23.901Z [pet-shop] info: [AnimalService] - getAll - Request
+2022-06-06T23:41:23.902Z [pet-shop] info: [AnimalRepository] - getAll - Request
+2022-06-06T23:43:53.834Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:48:46.669Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:48:56.243Z [pet-shop] info: The petshop API is running on port 3333
+2022-06-06T23:51:44.885Z [pet-shop] info: [AnimalController] - getAll - Params => {}
+2022-06-06T23:51:44.885Z [pet-shop] info: [AnimalService] - getAll - Request
+2022-06-06T23:51:44.886Z [pet-shop] info: [AnimalRepository] - getAll - Request
+2022-06-06T23:51:52.652Z [pet-shop] info: [OwnerController] - getAll - Request 
+2022-06-06T23:51:52.653Z [pet-shop] info: [OwnerService] - getAll - Request
+2022-06-06T23:51:52.653Z [pet-shop] info: [OwnerRepository] - getAll - Request
+2022-06-06T23:52:01.728Z [pet-shop] info: [AnimalController] - getAll - Params => {}
+2022-06-06T23:52:01.729Z [pet-shop] info: [AnimalService] - getAll - Request
+2022-06-06T23:52:01.729Z [pet-shop] info: [AnimalRepository] - getAll - Request
